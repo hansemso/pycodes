@@ -17,7 +17,7 @@ III. experimenting with small utilities
 
 ## 📁 Structure
 
-- ML sub-folder with train.py for practicing junior ML developer position. 
+- ML sub-folder with numpy_model.py for practicing feedforward MLP. 
 - tokenization
 - embedding
 - gradient analysis
