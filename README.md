@@ -4,7 +4,7 @@
 
 ```bash
 git clone https://github.com/hansemso/pycodes.git
-cd pycodes/ml
+cd pycodes
 ```
 
 ## 📌 Purpose
@@ -15,23 +15,15 @@ I. Learning core programming concepts, including: ML
 II. building reusable, generic, modular code
 III. experimenting with small utilities
 
-## 📁 Structure
-
-- ML sub-folder with numpy_model.py for practicing feedforward MLP. 
-- tokenization
-- embedding
-- gradient analysis
-
-
 
 ## 🚀 How to run
 
 ```bash
-python train.py
+python pycodes folder contains all scripts. ML folder contains ML scripts.
 ```
 
 📜 Scripts Index
 
 exits.py → clean exit / restart handling (WIP)
 Basics
-
+ML sub-folder with numpy_model.py for practicing feedforward MLP. 
